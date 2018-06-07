@@ -49,23 +49,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "CE7B4B90-0E32-4ECA-A9CB-DACBB588E27C"
-    },
     {
       "class": "text",
       "id": "B967D348-1C31-4E5F-9A0D-0F31933C29EA"
-    },
-    {
-      "class": "text",
-      "id": "AAAE0956-BB01-4EDF-982B-53136532DD95"
-    },
-    {
-      "class": "group",
-      "id": "18B95853-98A7-46C8-BE41-DDEE7D266DD8"
     }
   ],
   "name": "Splash",
